@@ -1,5 +1,7 @@
 # BlazeStreamMobile
 onscreen unmute
+
+```
 (() => {
     if (document.getElementById('blaze-unmuter-icon')) return;
 
